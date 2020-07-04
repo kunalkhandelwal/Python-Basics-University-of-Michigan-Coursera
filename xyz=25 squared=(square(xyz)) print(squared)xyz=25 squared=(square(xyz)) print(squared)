@@ -1,0 +1,12 @@
+#1
+xyz=25
+squared=(square(xyz))
+print(squared)
+
+#2
+x=(len(rv))
+num_chars=x
+print(num_chars)
+
+#3
+Options A,B,D
